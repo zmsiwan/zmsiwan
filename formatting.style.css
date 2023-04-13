@@ -1,0 +1,18 @@
+@charset "utf-8";
+.img_float {
+	background-color: coral;
+    color: #F5171B;
+    background-color: #0A29DB;
+    margin-top: auto;
+    margin-right: auto;
+    max-width: 1920px;
+    max-height: 1080px;
+    width: 1920px;
+    height: 1080px;
+    float: none;
+}
+.color {
+    text-shadow: 0px 0px #ED0B0F;
+	background-color: #0A29DB;
+	background-color: coral;
+}
